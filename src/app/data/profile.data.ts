@@ -170,6 +170,12 @@ export const PROFILE_DATA: ProfileData = {
           stack: ['PWA', 'Java', 'Angular', 'PostgreSQL'],
           links: [
             {
+              label: 'Acessar App',
+              url: 'https://evolutto.vercel.app/',
+              icon: 'external-link',
+              primary: true
+            },
+            {
               label: 'Repositório',
               url: 'https://github.com/Allan-Souza/Evolutto',
               icon: 'github'
