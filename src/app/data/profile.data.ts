@@ -105,7 +105,7 @@ export const PROFILE_DATA: ProfileData = {
     location: 'Recife, PE - Brasil',
     email: 'allan.rodrigues.souza22@gmail.com',
     phone: '+55 81 98592-5622',
-    website: 'https://allanvictor.dev',
+    website: 'https://allan-souza.vercel.app/',
     linkedinUrl: 'https://www.linkedin.com/in/allan-souza-dev/',
     githubUrl: 'https://github.com/Allan-Souza',
     instagramUrl: 'https://www.instagram.com/allanrodrigues.code/',
