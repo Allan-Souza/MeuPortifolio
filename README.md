@@ -1,6 +1,7 @@
 # Allan Victor • Cartão Digital & Currículo Interativo (NFC)
+## [Acessar link direto](https://allan-souza.vercel.app/)
 
-Aplicação web **Mobile-First** de alta performance construída em **Angular (Standalone Components + Signals)** e **Tailwind CSS**, projetada para carregamento instantâneo via **tag NFC** em eventos de tecnologia e networking.
+Aplicação web **Mobile-First** de alta performance construída em **Angular (Standalone Components + Signals)** e **Tailwind CSS**, projetada para carregamento instantâneo via **tag NFC** em eventos.
 
 ## Stack & Arquitetura
 
