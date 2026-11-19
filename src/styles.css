@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    min-height: 100dvh;
+  }
+}
+
+/* Custom subtle dot grid background for Indie Dev / Retro-Modern vibe */
+.bg-retro-grid {
+  background-image: radial-gradient(rgba(245, 158, 11, 0.08) 1px, transparent 1px);
+  background-size: 20px 20px;
+}
