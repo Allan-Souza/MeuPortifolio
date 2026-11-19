@@ -101,7 +101,7 @@ export const PROFILE_DATA: ProfileData = {
     avatarUrl: '', // Deixe vazio para exibir o placeholder estilizado "AV"
     headline: 'Engenharia de Software • Fullstack Dev • Google Student Ambassador',
     jobTitle: 'Fullstack Developer & Software Engineer',
-    organization: 'KinaTech / Jala University',
+    organization: 'KinaTech',
     location: 'Recife, PE - Brasil',
     email: 'allan.rodrigues.souza22@gmail.com',
     phone: '+55 81 98592-5622',
